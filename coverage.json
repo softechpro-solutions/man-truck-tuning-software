@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "man-truck-tuning-software",
+  "title": "MAN Truck ECU Tuning Software (TGX / TGS / TGA / TGL)",
   "official_url": "https://www.softechpro-solutions.com/trucks/",
-  "matched_ecus": 0,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/man-truck-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
